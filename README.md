@@ -1,2 +1,2 @@
 # MAJOR-PROJECT
-MAJOR PROJECT
+Detection Of Phishing Websites
